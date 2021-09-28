@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACI,QAAU,CACV,SACJ,CAEA,MACI,qBACJ,CAEA,OACI,qBACJ","file":"main.035cb66b.chunk.css","sourcesContent":["body {\n    margin: 0%;\n    padding: 0%;\n}\n\n.dark {\n    background-color: #000\n}\n\n.light {\n    background-color: #fff\n}"]}
